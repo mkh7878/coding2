@@ -4,11 +4,8 @@ This a repository of my homework assignments for my MSC in creative computing at
 
 The assignments are as follows:
 
-1. [Circle Slider Instrument](https://github.com/mkh7878/coding2/tree/Week2_SliderCircle) (OpenFrameworks/C++): In my first attempt at making a program to explore the relationship between movement, colour and music, this program uses a gui slider to allow the user to play music. The slider/music is tied to the visuals of the circle changing size and colour. This is a theme I explored further in my final project. [Result Here](https://www.youtube.com/watch?v=tm_TPuG_BQw) 
+1. [Circle Slider Instrument](https://github.com/mkh7878/coding2/tree/Week2_SliderCircle) (OpenFrameworks/C++): In my first attempt at making a program to explore the relationship between movement, colour and music, this program uses a gui slider to allow the user to play music. The slider/music is tied to the visuals of the circle changing size and colour. This is a theme I explored further in my final project. 
 [![](https://raw.githubusercontent.com/mkh7878/coding2/Week2_SliderCircle/Screenshot%202023-03-14%20at%2010.09.46%20am.png)](https://www.youtube.com/watch?v=tm_TPuG_BQw)
-
-
-https://www.youtube.com/watch?v=tm_TPuG_BQw
 
 2. Boids: This project uses an artificial life simulator to ccreate a flock of dots that move around the screen in a "natural" way reacting to each other's movement. The assignment was to create a child class of the parent class Boid (mine is called Fish) and to make a second flock that does not intersect with the original flock.
 
