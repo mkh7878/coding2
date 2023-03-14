@@ -5,8 +5,8 @@ This a repository of my homework assignments for my MSC in creative computing at
 The assignments are as follows:
 
 1. [Circle Slider Instrument](https://github.com/mkh7878/coding2/tree/Week2_SliderCircle) (OpenFrameworks/C++): In my first attempt at making a program to explore the relationship between movement, colour and music, this program uses a gui slider to allow the user to play music. The slider/music is tied to the visuals of the circle changing size and colour. This is a theme I explored further in my final project. [Result Here](https://www.youtube.com/watch?v=tm_TPuG_BQw) 
+[![](https://raw.githubusercontent.com/mkh7878/coding2/Week2_SliderCircle/Screenshot%202023-03-14%20at%2010.09.46%20am.png)](https://www.youtube.com/watch?v=tm_TPuG_BQw)
 
-![]([https://img.youtube.com/vi/VIDEO-ID/0.jpg](https://raw.githubusercontent.com/mkh7878/coding2/Week2_SliderCircle/Screenshot%202023-03-14%20at%2010.09.46%20am.png))]((https://www.youtube.com/watch?v=tm_TPuG_BQw))
 
 https://www.youtube.com/watch?v=tm_TPuG_BQw
 
