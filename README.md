@@ -11,5 +11,5 @@ The assignments are as follows:
 3. [Python Challenge!](https://mkh7878.github.io/pythonchallenge/)
 This is a challenge inspired by the [Python Challenge](http://www.pythonchallenge.com/). In the source code of the page is hidden a string of X's and O's. As suggested in the horrific graphics on the webpage, there is a secret message hidden within the O's. The number of O's between each X spells out a word when you convert those numbers into chars.
 
-4. [Python Homework:](https://github.com/mkh7878/coding2/blob/Python_NumpyHW/Mae%20Horak%20Python%20Homework%20Attempt%202.ipynb) Image transformation using numpy. I used numpy to take images and separate them out by pixel colour and then stack the pixels on each other to make interesting graph-like visuals. 
+4. [Python Homework:](https://github.com/mkh7878/coding2/blob/Python_NumpyHW/Mae%20Horak%20Python%20Homework%20Attempt%202.ipynb) Image transformation using numpy. I used numpy to take images and separate them out by pixel colour and then stack the pixels on each other to make interesting graph-like visuals. [Result here](https://github.com/mkh7878/coding2/blob/Python_NumpyHW/python%20images.jpg)
 
