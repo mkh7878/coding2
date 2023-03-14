@@ -16,7 +16,7 @@ This is a challenge inspired by the [Python Challenge](http://www.pythonchalleng
 [Creating The Challenge](https://github.com/mkh7878/pythonchallenge/blob/main/creating_the_challenge.py) 
 [Solving The Challenge](https://github.com/mkh7878/pythonchallenge/blob/main/solution.py)
 
-4. [Python Homework:](https://github.com/mkh7878/coding2/blob/Python_NumpyHW/Mae%20Horak%20Python%20Homework%20Attempt%202.ipynb) Image transformation using numpy. I used numpy to take images and separate them out by pixel colour and then stack the pixels on each other to make interesting graph-like visuals. [Result here](https://github.com/mkh7878/coding2/blob/Python_NumpyHW/python%20images.jpg)
+4. [Python Homework:](https://github.com/mkh7878/coding2/blob/Python_NumpyHW/Mae%20Horak%20Python%20Homework%20Attempt%202.ipynb) Image transformation using numpy. I used numpy to take images and separate them out by pixel colour and then stack the pixels on each other to make interesting graph-like visuals.
 
 ![](https://raw.githubusercontent.com/mkh7878/coding2/Python_NumpyHW/python%20images.jpg)
 
