@@ -9,6 +9,8 @@ The assignments are as follows:
 
 2. Boids: This project uses an artificial life simulator to ccreate a flock of dots that move around the screen in a "natural" way reacting to each other's movement. The assignment was to create a child class of the parent class Boid (mine is called Fish) and to make a second flock that does not intersect with the original flock.
 
+[![](https://raw.githubusercontent.com/mkh7878/coding2/Week3_Boids/Screenshot%202023-03-14%20at%2010.16.08%20am.png)]([https://www.youtube.com/watch?v=tm_TPuG_BQw](https://www.youtube.com/watch?v=EDqY_aWX9xM))
+
 3. [Python Challenge!](https://mkh7878.github.io/pythonchallenge/)
 This is a challenge inspired by the [Python Challenge](http://www.pythonchallenge.com/). In the source code of the page is hidden a string of X's and O's. As suggested in the horrific graphics on the webpage, there is a secret message hidden within the O's. The number of O's between each X spells out a word when you convert those numbers into chars.
 
