@@ -1,6 +1,6 @@
 ## CODING 2: Mae Horak Homework Submission
 
-This a repository of my homework assignments for my MSC in creative computing at UAL. 
+[This a repository](https://github.com/mkh7878/coding2) of my homework assignments for my MSC in creative computing at UAL. 
 
 The assignments are as follows:
 
